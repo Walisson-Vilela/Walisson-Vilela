@@ -1,10 +1,8 @@
-
-
-### Olá! Eu sou Walisson 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Hello World! 👋
+Eu sou Walisson Vilela, desenvolvedor Front-end a pouco mais de 2 anos. Minha carreira iniciou como estagiario, atuei como suporte técnico de Help-desk e hoje atuo como desenvolvedor.
+- 🔭 Estou trabalhando atualmente com desenvolvimento Web e tenho vpretençao em iniciar pequenos projetos de jogos também.
+- 🌱 Eu estou aprofundando meus conhecimentos em Javascript e Typescript e pretendo abrir leque para outras linguagens como C# e NodeJS.
+- 🤝 Estou disposto a colaborar com meus projetos pessoais e atuar na comunidade. 
 
 
 
