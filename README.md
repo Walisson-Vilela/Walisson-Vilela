@@ -24,7 +24,7 @@ Me chamo Walisson Vilela e sou desenvolvedor Front-End e stou usando o GITHUB pa
 <div align="center">
   <a href="https://github.com/Walisson-Vilela">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Walisson-Vilela&show_icons=true&count_private=true&line_height=30&theme=dark"/>
-  <img height="180em" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Walisson-Vilela&layout=compact&theme=dark](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Walisson-Vilela&layout=compact&theme=dark)"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Walisson-Vilela&layout=compact&theme=dark"/>
 </div>
 
 ##
