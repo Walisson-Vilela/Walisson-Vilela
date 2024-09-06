@@ -1,7 +1,7 @@
 ## Hello World! 👋
 <br>
 <div align="left">
-Me chamo Walisson Vilela e sou desenvolvedor Front-End e stou usando o GITHUB para publicar meus estudos e meus projetos pessoais. Espero que gostem! <br>
+I'm Walisson Vilela, a Front-End Developer and I'm using GITHUB to publish my studies and personal projects. I hope you like it! <br>
 </div>
 
 ##
